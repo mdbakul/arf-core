@@ -1,0 +1,115 @@
+@font-face {
+    font-family: "shofyicon";
+    src: url("../fonts/shofyicon_shofy.ttf?3837dea8ee286554e3fb28a0d0007b07") format("truetype"),
+url("../fonts/shofyicon_shofy.woff?3837dea8ee286554e3fb28a0d0007b07") format("woff"),
+url("../fonts/shofyicon_shofy.woff2?3837dea8ee286554e3fb28a0d0007b07") format("woff2"),
+url("../fonts/shofyicon_shofy.eot?3837dea8ee286554e3fb28a0d0007b07#iefix") format("embedded-opentype");
+}
+
+i[class^="shofyicon-"]:before, i[class*=" shofyicon-"]:before {
+    font-family: shofyicon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.shofyicon-store:before {
+    content: "\f101";
+}
+.shofyicon-magnifying-glass:before {
+    content: "\f102";
+}
+.shofyicon-search:before {
+    content: "\f103";
+}
+.shofyicon-heart:before {
+    content: "\f104";
+}
+.shofyicon-user:before {
+    content: "\f105";
+}
+.shofyicon-menu:before {
+    content: "\f106";
+}
+.shofyicon-menu-1:before {
+    content: "\f107";
+}
+.shofyicon-watermelon:before {
+    content: "\f108";
+}
+.shofyicon-broccoli:before {
+    content: "\f109";
+}
+.shofyicon-cupcake:before {
+    content: "\f10a";
+}
+.shofyicon-bread:before {
+    content: "\f10b";
+}
+.shofyicon-apple:before {
+    content: "\f10c";
+}
+.shofyicon-fish:before {
+    content: "\f10d";
+}
+.shofyicon-snack:before {
+    content: "\f10e";
+}
+.shofyicon-eggs:before {
+    content: "\f10f";
+}
+.shofyicon-coffee:before {
+    content: "\f110";
+}
+.shofyicon-pet:before {
+    content: "\f111";
+}
+.shofyicon-basketball-match:before {
+    content: "\f112";
+}
+.shofyicon-milk:before {
+    content: "\f113";
+}
+.shofyicon-vegan:before {
+    content: "\f114";
+}
+.shofyicon-smartphone:before {
+    content: "\f115";
+}
+.shofyicon-camera:before {
+    content: "\f116";
+}
+.shofyicon-monitor:before {
+    content: "\f117";
+}
+.shofyicon-home:before {
+    content: "\f118";
+}
+.shofyicon-store-1:before {
+    content: "\f119";
+}
+.shofyicon-gift:before {
+    content: "\f11a";
+}
+.shofyicon-discount:before {
+    content: "\f11b";
+}
+.shofyicon-voucher:before {
+    content: "\f11c";
+}
+.shofyicon-price-tag:before {
+    content: "\f11d";
+}
+.shofyicon-football:before {
+    content: "\f11e";
+}
+.shofyicon-running:before {
+    content: "\f11f";
+}
+.shofyicon-play-button:before {
+    content: "\f120";
+}
